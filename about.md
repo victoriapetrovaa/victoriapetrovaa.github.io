@@ -6,5 +6,5 @@ I analyze both the cognitive biases (ie. motivated reasoning) and the emotional 
 
 I am currently co-authoring an article with Seth Herd, neuroscientist and AI safety researcher at Astera Institute.
 
-## Full work
+### Full work
 https://www.lesswrong.com/posts/QpgmEhBvJQxAfFMP2/motivated-reasoning-confirmation-bias-and-ai-risk-theory
