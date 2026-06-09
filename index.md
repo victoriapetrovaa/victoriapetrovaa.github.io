@@ -15,5 +15,5 @@ My name is Victoria, and I am at the start of my professional career. I want to 
 
 - [About](about)
 - [CV](cv)
-- LinkedIn: [https://linkedin.com/in/janedoe](https://www.linkedin.com/in/victoria-petrovaa)
+- LinkedIn: (https://www.linkedin.com/in/victoria-petrovaa)
 
