@@ -1,0 +1,3 @@
+git add <Resume-Victoria-Petrova.pdf>
+git commit -m "Add PDF file"
+git push
